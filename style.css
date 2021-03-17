@@ -1,0 +1,31 @@
+/* Example styling of a h1 element */
+body {
+  background-color: rgb(251, 253, 242);
+}
+
+h1 {
+  color: orchid;
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 2.5em;
+}
+
+.content {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.regulartext {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2em;
+}
+
+.smalltext {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8em;
+}
+
+.img {
+  width: 80%;
+}
+
+
